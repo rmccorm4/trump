@@ -5,5 +5,5 @@ So far I have analyzed Trump's Black History Month speech and compared it with t
 Here are the word counts for Trump's and Obama's speeches.
 
 <p align="center">
-  ![](SpeechComparison/BHMSpeechCount.jpg)
+  <img src="SpeechComparison/BHMSpeechCount.jpg"/>
 </p>
